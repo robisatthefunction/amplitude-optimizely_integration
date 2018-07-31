@@ -55,7 +55,3 @@ function sendToAmplitude(call) {
 }
 
 sendToAmplitude(0);
-
-//what is the extension object?
-//why do we need to do identify call and log event?
-//what is sendToAmplitude doing?
